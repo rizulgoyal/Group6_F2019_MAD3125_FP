@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Group6_F2019_MAD3125_FP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Admin: Rizul and Kuldeep</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+<string name="login">user@employee.com</string>
+    <string name="pass">s3cr3t</string>
+    <string name="EmpDetails">Employee Details</string>
+    <string name="addEmp">Add New Vehicle</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_employyelist">List Of Employees</string>
+    <string name="menu_addemployee">Add Employee</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_logout">Log Out</string>
+    <string-array name="emptype">
+        <item>Intern</item>
+        <item>PartTime / Commissioned</item>
+        <item>PartTime / Fixed Amount</item>
+        <item>FullTime</item>
+    </string-array>
+    <string-array name="vehicletype">
+        <item>Car</item>
+        <item>Motorcycle</item>
+    </string-array>
+</resources>
